@@ -6,7 +6,7 @@ The repository has two main folders: **Training** and **Testing**. **Training** 
 
 Links to datasets:
 
-1. [Unified Dataset](https://huggingface.co/datasets/datapaf/UltimateQAFiltered2)
+1. [Unified Dataset](https://huggingface.co/datasets/datapaf/CodeQuestionAnswering)
 
 2. [Unified Dataset with Grammatical Corrections](https://huggingface.co/datasets/datapaf/UltimateQAGrammarCorrected)
 
@@ -17,4 +17,4 @@ Links to datasets:
 5. [High Quality Subset of Unified Dataset](https://huggingface.co/datasets/datapaf/UCQAQualitySubsetBenchmark)
 
 
-If you have any question related to the code, send an email with your question to georgyandryuschenko@gmail.com
+If you have any question related to the code, send an email with your question to georgyandryuschenko@gmail.com. However, feel free to create a GitHub issue too.
